@@ -30,5 +30,5 @@ I never bothered as I have several phones that are only Wi-Fi connected only pho
 Im sure this will be patched or fixed at some point.
  This method has worked for ten months now, a secret never told remains a secret
 Today I am making my secret available to all you who need some help with free laundry
-I did try on several occasions to contact CSCPay cooperate here in the USA and the app developer to see about a bug bounty. They contacted me, meaning they either didnt take me seriously or security is not a priorty.
+I did try on several occasions to contact CSCPay cooperate here in the USA and the app developer to see about a bug bounty. They never contacted me, meaning they either didnt take me seriously or security is not a priorty.
 
